@@ -1,8 +1,7 @@
 <p>
-  <h2 align="center"><b>👋 Hello! I'm Jay | </b></h2>
+  <h2 align="center"><b>👋 Hello! I'm Jay </b></h2>
   <h3 align="center"><b>Full Stack Developer 🚀</b></h3>
 </p>
-<br />
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/jaybhoyar" />
 </p>
