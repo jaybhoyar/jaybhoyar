@@ -57,7 +57,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaybhoyar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jaybhoyar&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhoyar&layout=compact&hide_border=true)
-
