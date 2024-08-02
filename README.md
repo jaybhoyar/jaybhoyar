@@ -49,7 +49,7 @@
   <div align=center>
     <a href="https://github.com/jaybhoyar/github-readme-stats">
       <img height=200 align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhoyar&hide=c%23,powershell,Mathematica,HTML&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhoyar&hide=c%23,powershell,Mathematica,SCSS,CSS,HTML&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
