@@ -18,69 +18,88 @@
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 
-<table>
+<!-- <p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="90" alt="Ruby on Rails"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="90" alt="React.js"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="90" alt="Ruby on Rails"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="90" alt="Ruby on Rails"/> &nbsp;&nbsp;
+</p> -->
+
+<table no-border>
   <tr>
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="60" alt="Ruby on Rails"/>
-    <p>Ruby on Rails</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="60" alt="React.js"/>
-    <p>React.js</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="60" alt="Node.js"/>
-    <p>Node.js</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" width="60" alt="PostgreSQL"/>
-    <p>PostgreSQL</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="60" alt="MongoDB"/>
-    <p>MongoDB</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="60" alt="JavaScript"/>
-    <p>JavaScript</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ruby.svg" width="60" alt="Ruby"/>
-    <p>Ruby</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="60" alt="HTML5"/>
-    <p>HTML5</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" width="60" alt="CSS3"/>
-    <p>CSS3</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="60" alt="Git"/>
-    <p>Git</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="60" alt="GitHub"/>
-    <p>GitHub</p>
-  </td>
-
-  <td>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" width="60" alt="Docker"/>
-    <p>Docker</p>
-  </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="90" alt="Ruby on Rails"/>
+      <br/><br/>
+      <p align="center">Ruby on Rails</p>
+    </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="90" alt="React.js"/>
+      <br/><br/>
+      <p align="center">React.js</p>
+    </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="90" alt="Node.js"/>
+      <br/><br/>
+      <p align="center">Node.js</p>
+    </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" width="90" alt="PostgreSQL"/>
+      <br/><br/>
+      <p align="center">PostgreSQL</p>
+    </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="90" alt="MongoDB"/>
+      <br/><br/>
+      <p align="center">MongoDB</p>
+    </td>
+    <td width="120">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="90" alt="JavaScript"/>
+      <br/><br/>
+      <p align="center">JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ruby.svg" width="90" alt="Ruby"/>
+      <br/><br/>
+      <p align="center">Ruby</p>
+    </td>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="90" alt="HTML5"/>
+      <br/><br/>
+      <p align="center">HTML5</p>
+    </td>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" width="90" alt="CSS3"/>
+      <br/><br/>
+      <p align="center">CSS3</p>
+    </td>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="90" alt="Git"/>
+      <br/><br/>
+      <p align="center">Git</p>
+    </td>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="90" alt="GitHub"/>
+      <br/><br/>
+      <p align="center">GitHub</p>
+    </td>
+    <td width="120">
+      <br/>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" width="90" alt="Docker"/>
+      <br/><br/>
+      <p align="center">Docker</p>
+    </td>
   </tr>
 </table>
+
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
 <br>
