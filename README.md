@@ -16,44 +16,94 @@
 <a href="https://medium.com/@jaybhoyar1997"><img src="https://img.shields.io/badge/medium-%a3a3a3.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium Blog" /></a>&nbsp;
 </p>
 
-   
-### Languages and Tools: 
+<h2 align='center'><b>Languages and Tools</b></h2>
 
-<img align="left" alt="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />&nbsp;
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&nbsp;
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
-<img align="left" alt="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />&nbsp;
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
-<img align="left" alt="mongodb" width="110px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />&nbsp;
-<img align="left" alt="Rails" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />&nbsp;
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
-<img align="left" alt="Git" width="65px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />&nbsp;
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="60" alt="Ruby on Rails"/>
+    <p>Ruby on Rails</p>
+  </div>
 
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="60" alt="React.js"/>
+    <p>React.js</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="60" alt="Node.js"/>
+    <p>Node.js</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" width="60" alt="PostgreSQL"/>
+    <p>PostgreSQL</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="60" alt="MongoDB"/>
+    <p>MongoDB</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="60" alt="JavaScript"/>
+    <p>JavaScript</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ruby.svg" width="60" alt="Ruby"/>
+    <p>Ruby</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="60" alt="HTML5"/>
+    <p>HTML5</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" width="60" alt="CSS3"/>
+    <p>CSS3</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="60" alt="Git"/>
+    <p>Git</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="60" alt="GitHub"/>
+    <p>GitHub</p>
+  </div>
+
+  <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" width="60" alt="Docker"/>
+    <p>Docker</p>
+  </div>
+
+  <!-- <div style="flex: 0 1 120px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonwebservices.svg" width="60" alt="AWS"/>
+    <p>AWS</p>
+  </div> -->
+
+</div>
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
+<div>
+  <div align='center' style="margin-bottom: 30px;>
     <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
+      <img align="left" width='48%' height="180" src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
     </a>
     <a href="https://github.com/jaybhoyar/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jaybhoyar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width='48%' height="180" src="https://github-readme-stats.vercel.app/api?username=jaybhoyar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/jaybhoyar/github-readme-stats">
-      <img height=200 align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybhoyar&hide=c%23,powershell,Mathematica,SCSS,CSS,HTML&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  <br><br><br><br><br><br><br><br>
+  <div style="margin-top: 30px; align='center';" width="100%">
+    <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source">
+    <img width="100%" height="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jaybhoyar&theme=react-dark&bg_color=20232a&hide_border=true" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaybhoyar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
+</div>
