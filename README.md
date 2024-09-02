@@ -19,72 +19,65 @@
 <h2 align='center'><b>Languages and Tools</b></h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 30px;">
-
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="60" alt="Ruby on Rails"/>
     <p>Ruby on Rails</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="60" alt="React.js"/>
     <p>React.js</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="60" alt="Node.js"/>
     <p>Node.js</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" width="60" alt="PostgreSQL"/>
     <p>PostgreSQL</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="60" alt="MongoDB"/>
     <p>MongoDB</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="60" alt="JavaScript"/>
     <p>JavaScript</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ruby.svg" width="60" alt="Ruby"/>
     <p>Ruby</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="60" alt="HTML5"/>
     <p>HTML5</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" width="60" alt="CSS3"/>
     <p>CSS3</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="60" alt="Git"/>
     <p>Git</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="60" alt="GitHub"/>
     <p>GitHub</p>
   </div>
 
-  <div style="">
+  <div>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" width="60" alt="Docker"/>
     <p>Docker</p>
   </div>
-
-  <!-- <div style="">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonwebservices.svg" width="60" alt="AWS"/>
-    <p>AWS</p>
-  </div> -->
-
 </div>
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
