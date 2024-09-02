@@ -18,72 +18,74 @@
 
 <h2 align='center'><b>Languages and Tools</b></h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 30px;">
-  <div>
+<table>
+  <tr>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rubyonrails.svg" width="60" alt="Ruby on Rails"/>
     <p>Ruby on Rails</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="60" alt="React.js"/>
     <p>React.js</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="60" alt="Node.js"/>
     <p>Node.js</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" width="60" alt="PostgreSQL"/>
     <p>PostgreSQL</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mongodb.svg" width="60" alt="MongoDB"/>
     <p>MongoDB</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="60" alt="JavaScript"/>
     <p>JavaScript</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ruby.svg" width="60" alt="Ruby"/>
     <p>Ruby</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="60" alt="HTML5"/>
     <p>HTML5</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/css3.svg" width="60" alt="CSS3"/>
     <p>CSS3</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" width="60" alt="Git"/>
     <p>Git</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="60" alt="GitHub"/>
     <p>GitHub</p>
-  </div>
+  </td>
 
-  <div>
+  <td>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" width="60" alt="Docker"/>
     <p>Docker</p>
-  </div>
-</div>
+  </td>
+  </tr>
+</table>
 <br>
   <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div>
-  <div align='center' style="margin-bottom: 30px;>
+  <div align='center'>
     <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source">
       <img align="left" width='48%' height="180" src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
     </a>
