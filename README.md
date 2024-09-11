@@ -105,7 +105,7 @@
 <br>
 
 <div align='center' with="100%">
-  <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source" width='50%'>
+  <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source" width='46%'>
     <img align="left" width='100%' height="190" src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
   </a>
   <a href="https://github.com/jaybhoyar/github-readme-stats" title="Go to Source" width='48%'>
