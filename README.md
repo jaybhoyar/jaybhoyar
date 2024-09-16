@@ -105,14 +105,14 @@
 <br>
 
 <div align='center' with="100%">
-  <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source" width='46%'>
-    <img align="left" width='100%' height="190" src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
+  <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width='45%' height="190" src="https://streak-stats.demolab.com/?user=jaybhoyar&theme=react&border=61dafb&hide_border=true" alt="jaybhoyar" />
   </a>
-  <a href="https://github.com/jaybhoyar/github-readme-stats" title="Go to Source" width='48%'>
-    <img align="right" width='100%' height="190" src="https://github-readme-stats.vercel.app/api?username=jaybhoyar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/jaybhoyar/github-readme-stats" title="Go to Source">
+    <img align="right" width='45%' height="190" src="https://github-readme-stats.vercel.app/api?username=jaybhoyar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<br><br>
+<br><br><br><br><br>
 <div align="center" width="100%">
   <a href="https://github.com/jaybhoyar/github-readme-streak-stats" title="Go to Source" width="100%">
   <img width="96%" height="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jaybhoyar&theme=react-dark&bg_color=20232a&hide_border=true" />
